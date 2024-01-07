@@ -40,8 +40,8 @@ binomial = Binomial(0.5, 10)
 
 ## Contributions and Issues
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/your-username/probability-distributions).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/yordanos/probability-distributions).
 
 ## License
 
-This package is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# probability-distributions
+This package is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/yordanoswuletaw/probability-distributions/blob/main/license.txt)) file for details.# probability-distributions
